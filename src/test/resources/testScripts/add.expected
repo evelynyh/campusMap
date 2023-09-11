@@ -1,0 +1,19 @@
+created graph graph1
+added node n1 to graph1
+added node n2 to graph1
+
+created graph graph2
+graph2 contains:
+
+added node n3 to graph1
+added edge e1 from n3 to n1 in graph1
+added edge e2 from n2 to n1 in graph1
+
+added node n1 to graph2
+added node n2 to graph2
+added edge e1 from n2 to n1 in graph2
+added node n2 to graph2
+
+graph1 contains: n1 n2 n3
+the children of n3 in graph1 are: n1(e1)
+the children of n3 in graph1 are: n1(e1)
